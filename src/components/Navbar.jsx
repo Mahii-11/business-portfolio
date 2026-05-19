@@ -55,7 +55,7 @@ export default function Navbar() {
             </div>
 
             <span className="font-display text-lg sm:text-xl font-bold tracking-tight text-slate-800">
-              Alex<span className="gradient-text">Morgan</span>
+              ADIB<span className="gradient-text">MA AHI</span>
             </span>
           </a>
 
